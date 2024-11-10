@@ -1,0 +1,121 @@
+{
+    "levelAuthor": "Gavin",
+    "levelData": [
+        [
+            0,
+            2,
+            "wall"
+        ],
+        [
+            0,
+            3,
+            "wall"
+        ],
+        [
+            0,
+            4,
+            "wall"
+        ],
+        [
+            1,
+            2,
+            "wall"
+        ],
+        [
+            1,
+            3,
+            "start"
+        ],
+        [
+            1,
+            4,
+            "wall"
+        ],
+        [
+            2,
+            2,
+            "wall"
+        ],
+        [
+            2,
+            3,
+            "ground"
+        ],
+        [
+            2,
+            4,
+            "wall"
+        ],
+        [
+            3,
+            2,
+            "wall"
+        ],
+        [
+            3,
+            3,
+            "ground"
+        ],
+        [
+            3,
+            4,
+            "wall"
+        ],
+        [
+            4,
+            2,
+            "wall"
+        ],
+        [
+            4,
+            3,
+            "ground"
+        ],
+        [
+            4,
+            4,
+            "wall"
+        ],
+        [
+            5,
+            2,
+            "wall"
+        ],
+        [
+            5,
+            3,
+            "end"
+        ],
+        [
+            5,
+            4,
+            "wall"
+        ],
+        [
+            6,
+            2,
+            "wall"
+        ],
+        [
+            6,
+            3,
+            "wall"
+        ],
+        [
+            6,
+            4,
+            "wall"
+        ]
+    ],
+    "levelDescription": "Move from the starting block to the end! \nYou will need 4 `moveForward()` moves to get to the end!",
+    "levelGemCount": 0,
+    "levelHints": "Your first adventure awaits! Move move around with `moveForward()`",
+    "levelInstructionLimit": 0,
+    "levelLineLimit": 0,
+    "levelObjectives": "Get to the end tile!",
+    "levelPreWrittenCode": "",
+    "levelSize": 7,
+    "levelTimeLimit": 60,
+    "levelTitle": "1.0: The Beginning",
+    "levelType": "gemLevel"
+}

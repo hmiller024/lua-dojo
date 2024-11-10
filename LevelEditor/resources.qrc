@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/symbols/brush-solid.svg</file>
+        <file>resources/symbols/clone-solid.svg</file>
+        <file>resources/symbols/expand-solid.svg</file>
+        <file>resources/symbols/file-export-solid.svg</file>
+        <file>resources/symbols/floppy-disk-solid.svg</file>
+        <file>resources/symbols/folder-plus-solid.svg</file>
+        <file>resources/symbols/paintbrush-solid.svg</file>
+        <file>resources/symbols/paste-solid.svg</file>
+        <file>resources/symbols/pencil-solid.svg</file>
+        <file>resources/symbols/sd-card-solid.svg</file>
+        <file>resources/symbols/circle-exclamation-solid.svg</file>
+        <file>resources/symbols/eraser-solid.svg</file>
+        <file>resources/symbols/exclamation-solid.svg</file>
+        <file>resources/symbols/eye-slash-solid.svg</file>
+        <file>resources/symbols/eye-solid.svg</file>
+        <file>resources/symbols/flag-regular.svg</file>
+        <file>resources/symbols/flag-solid.svg</file>
+        <file>resources/symbols/folder-tree-solid.svg</file>
+        <file>resources/symbols/forward-solid.svg</file>
+        <file>resources/symbols/gears-solid.svg</file>
+        <file>resources/symbols/play-solid.svg</file>
+        <file>resources/symbols/sliders-solid.svg</file>
+        <file>resources/symbols/wrench-solid.svg</file>
+        <file>resources/symbols/fill-drip-solid.svg</file>
+        <file>resources/symbols/hourglass-start-solid.svg</file>
+        <file>resources/symbols/lock-open-solid.svg</file>
+        <file>resources/symbols/lock-solid.svg</file>
+        <file>resources/symbols/palette-solid.svg</file>
+        <file>resources/symbols/ruler-solid.svg</file>
+        <file>resources/symbols/wand-magic-solid.svg</file>
+    </qresource>
+</RCC>

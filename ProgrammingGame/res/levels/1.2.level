@@ -1,0 +1,61 @@
+{
+    "levelAuthor": "Gavin",
+    "levelData": [
+        [
+            0,
+            3,
+            "start"
+        ],
+        [
+            1,
+            3,
+            "ground"
+        ],
+        [
+            2,
+            2,
+            "ground"
+        ],
+        [
+            2,
+            3,
+            "ground"
+        ],
+        [
+            3,
+            2,
+            "ground"
+        ],
+        [
+            4,
+            2,
+            "ground"
+        ],
+        [
+            4,
+            3,
+            "ground"
+        ],
+        [
+            5,
+            3,
+            "ground"
+        ],
+        [
+            6,
+            3,
+            "end"
+        ]
+    ],
+    "levelDescription": "Watch out for the gap!",
+    "levelGemCount": 0,
+    "levelHints": "Watch your step! There's no walls on this level!",
+    "levelInstructionLimit": 0,
+    "levelLineLimit": 0,
+    "levelObjectives": "Get to the end portal!",
+    "levelPreWrittenCode": "",
+    "levelSize": 7,
+    "levelTimeLimit": 60,
+    "levelTitle": "1.2: Watch Your Step!",
+    "levelType": "gemLevel"
+}
